@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/BaseServlet.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/EditCategoryServlet.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/web/home.jsp</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/HomeServlet.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/BangCuuChuong.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/DeleteCategoryServlet.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/web/index.html</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/web/WEB-INF/web.xml</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/ProductServelt.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/web/login.jsp</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/DemoServlet.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/CategoryServlet.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/util/Constants.java</file>
+            <file>file:/D:/DHPhuXuan/WebApp/WebApp/src/java/quan/dev/data/driver/MySQLDriver.java</file>
+        </group>
+    </open-files>
+</project-private>
